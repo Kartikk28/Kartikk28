@@ -12,10 +12,12 @@ Databases: MySQL, PostgreSQL, MongoDB(currently learning)
 Embedded Systems: Firmata, Arduino, Raspberry Pi
 
 🔧 Projects
-AI-Powered Chatbot (Java): Intelligent chatbot using NLP for automated responses.
+Plant Watering System using JAVA and Arduino
 Smart Traffic System (Java): Multi-threaded traffic monitoring system with sensor simulations.
+Mark Management System- JAVA FX, Java, CSS
+Portfolio Website- HTML, CSS, JavaScript
 AI number generator (C): Optimized paging and memory allocation system.
-E-Commerce Platform (React/Node.js): Scalable web application with secure payments and AWS deployment.
+
 
 📫 Get in Touch
 📧 Email: myselfkari57@gmail.com
