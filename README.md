@@ -1,4 +1,4 @@
-👋 Hi, I’m Kartik Sharma (@Kartikk28)
+Hi, I’m Kartik Sharma (@Kartikk28)
 🚀 About Me
 💻 Passionate Software Engineer with interests in Software Development and Web Development.
 📚 Currently a 3rd-year student at York University, pursuing Bachelor of Software Engineering(2023-2027).
@@ -19,7 +19,7 @@ Portfolio Website- HTML, CSS, JavaScript
 AI number generator (C): Optimized paging and memory allocation system.
 
 
-📫 Get in Touch
-📧 Email: myselfkari57@gmail.com
-🔗 LinkedIn-www.linkedin.com/in/kartik-sharma-8859b819a
-🐙 GitHub
+ Get in Touch
+ Email: myselfkari57@gmail.com
+ LinkedIn-www.linkedin.com/in/kartik-sharma-8859b819a
+ GitHub
