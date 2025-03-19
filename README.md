@@ -7,15 +7,16 @@ Hi, I’m Kartik Sharma (@Kartikk28)
 
 🛠 Tech Stack
 Languages: Java, Python, C, C++, JavaScript, SQL, MATLAB
-Frameworks & Tools: React, Node.js, Express.js, Firmata4J, Selenium, Git, GitHub
+Frameworks & Tools: React, Node.js, Express.js, Firmata4J, Selenium, Git, GitHub, Postman
 Databases: MySQL, PostgreSQL, MongoDB(currently learning)
 Embedded Systems: Firmata, Arduino, Raspberry Pi
 
 🔧 Projects
-Plant Watering System using JAVA and Arduino
+Plant Watering System: JAVA, Arduino, Embedded Systems, Grove Mositure Sensor.
 Smart Traffic System (Java): Multi-threaded traffic monitoring system with sensor simulations.
-Mark Management System- JAVA FX, Java, CSS
+Mark Management System- JAVA FX, Java, CSS, React.js, RestAPI
 Portfolio Website- HTML, CSS, JavaScript
+Car Rental System- Java Spring Boot, React.js, Postman(API), MySQL, HTML.
 AI number generator (C): Optimized paging and memory allocation system.
 
 
