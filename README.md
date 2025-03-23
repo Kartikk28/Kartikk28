@@ -77,10 +77,20 @@ Multithreaded Java system simulating real-time traffic flow with dynamic signal 
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-8859b819a)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kartikk28)  
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:myselfkari57@gmail.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-sharma-8859b819a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px; width: 120px;">
+  </a>  
+  <a href="https://github.com/Kartikk28" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 40px; width: 120px;">
+  </a>  
+  <a href="mailto:myselfkari57@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px; width: 120px;">
+  </a>  
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 40px; width: 120px;">
+  </a>
+</p>
 
 ---
 
