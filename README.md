@@ -10,37 +10,48 @@
 ## 🚀 Tech Stack
 
 ### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🌐 Web & Frameworks
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberrypi)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🧩 Featured Projects
 
-- 🚗 [Car Rental System](https://github.com/Kartikk28/Car_Rental): Java Spring Boot + React.js web app for managing car rentals  
-- 🌱 [Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-): Java + Arduino smart irrigation system  
-- ⏰ [Alarm Clock System](https://github.com/Kartikk28/Alarm-Clock-System-OLED): Arduino OLED-based digital clock  
-- 🚦 [Smart Traffic System](https://github.com/Kartikk28/SmartTrafficSystem): Multithreaded Java system simulating real-time traffic flow
+### 🚗 [Car Rental System](https://github.com/Kartikk28/Car_Rental)
+Java Spring Boot + React.js web app for managing car rentals. Features include user authentication, car booking, and admin dashboard.
+
+### 🌱 [Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-)
+Java + Arduino smart irrigation system that monitors soil moisture and automates watering.
+
+### ⏰ [Alarm Clock System](https://github.com/Kartikk28/Alarm-Clock-System-OLED)
+Arduino OLED-based digital clock with customizable alarms and a sleek user interface.
+
+### 🚦 [Smart Traffic System](https://github.com/Kartikk28/SmartTrafficSystem)
+Multithreaded Java system simulating real-time traffic flow with dynamic signal control.
 
 ---
 
@@ -54,19 +65,31 @@
 
 ---
 
-## 🏅 Holopin Badges
+## 🏆 Achievements
 
-[![@kartikk28's Holopin board](https://holopin.io/api/user/board?user=kartikk28)](https://holopin.io/@kartikk28)
+- 🎓 Dean’s List, Lassonde School of Engineering (2023, 2024)
 
 ---
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kartik-sharma-8859b819a)  
-📬 Email: [myselfkari57@gmail.com](mailto:myselfkari57@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-sharma-8859b819a)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kartikk28)  
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:myselfkari57@gmail.com)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
 ## 💡 Fun Fact
-I started in aerospace engineering, but now I mix code with creativity to build impactful tech — from web apps to embedded systems 🚀
+I started in aerospace engineering, but now I mix code with creativity to build impactful tech — from web apps to embedded systems 🚀. When I'm not coding, you'll find me exploring new hiking trails or tinkering with my Raspberry Pi projects!
 
+---
+
+## 🌟 Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Kartikk28/count.svg)
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 😄</b>
+</p>
