@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm Kartik Sharma</h1>
+<h1 align="center">👋 Hey, I'm Kartik</h1>
 <p align="center">
 🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
 🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
@@ -7,7 +7,13 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 About Me
+
+I’m a passionate **Software Engineering student** with a background in Aerospace Engineering. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -15,7 +21,6 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### 🌐 Web & Frameworks
@@ -24,7 +29,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -34,8 +38,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -55,12 +57,14 @@ Multithreaded Java system simulating real-time traffic flow with dynamic signal 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartikk28&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikk28&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk28&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk28&layout=compact&theme=dark" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikk28&theme=github-dark" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -91,5 +95,5 @@ I started in aerospace engineering, but now I mix code with creativity to build 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 😄</b>
+  <b>Thanks for visiting my profile! </b>
 </p>
