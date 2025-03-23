@@ -7,11 +7,19 @@
   🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing Animation">
+</p>
+
 ---
 
 ## 🚀 About Me
 
-I’m a passionate **Software Engineering student** with a background in Aerospace Engineering. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="200">
+</p>
+
+I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
 
 ---
 
@@ -75,6 +83,9 @@ Multithreaded Java system simulating real-time traffic flow with dynamic signal 
 
 - 🎓 Dean’s List, Lassonde School of Engineering (2023, 2024)
 
+![Open Source Contributor](https://img.shields.io/badge/-Open%20Source%20Contributor-blue)
+![Dean's List](https://img.shields.io/badge/-Dean's%20List-orange)
+
 ---
 
 ## 🤝 Connect with Me
@@ -98,6 +109,10 @@ Multithreaded Java system simulating real-time traffic flow with dynamic signal 
 
 ## 💡 Fun Fact
 I started in aerospace engineering, but now I mix code with creativity to build impactful tech — from web apps to embedded systems 🚀. When I'm not coding, you'll find me exploring new hiking trails or tinkering with my Raspberry Pi projects!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Fun Fact GIF" width="200">
+</p>
 
 ---
 
