@@ -1,8 +1,10 @@
-<h1 align="center">👋 Hey, I'm Kartik</h1>
-<p align="center">
-🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
-🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
-🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff;">
+  👋 Hey, I'm Kartik
+</h1>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc;">
+  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
+  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
 
 ---
