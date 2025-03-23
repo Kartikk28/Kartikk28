@@ -16,8 +16,9 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="200">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="300" height="200">
 </p>
+
 
 I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
 
