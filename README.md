@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding GIF" width="300" height="200">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
 </p>
 
 
