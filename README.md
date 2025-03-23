@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing Animation">
 </p>
 
 ---
