@@ -1,13 +1,15 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff;">
-   Hey, I'm Kartik
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
+  👋 Hey, I'm Kartik
 </h1>
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc;">
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
   🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
   🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
   🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
 </p>
 
 ---
