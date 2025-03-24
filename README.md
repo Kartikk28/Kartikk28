@@ -1,50 +1,35 @@
-<!-- Cool Animated Intro for GitHub README -->
+<!-- Animated GitHub Intro (style-tag-free) -->
 <div align="center">
+
   <h1 style="
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 3rem;
+    font-size: 2.8rem;
     font-weight: 800;
-    background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
-    background-size: 200% auto;
-    color: #fff;
-    background-clip: text;
+    background: linear-gradient(270deg, #00ffff, #ff00ff, #00ffff);
+    background-size: 600% 600%;
+    color: transparent;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
-    animation: shine 3s linear infinite;
-    margin-bottom: 0.5rem;
+    animation: gradientAnimation 8s ease infinite;
+    display: inline-block;
   ">
     Hey, I'm Kartik 👋
   </h1>
 
   <p style="
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.15rem;
+    font-size: 1.1rem;
     color: #cccccc;
     line-height: 1.6;
-    animation: fadeIn 2s ease-in-out;
+    margin-top: 10px;
   ">
     🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br/>
-    🛩️ Aerospace Engineering Background | 💻 Web & Embedded Systems Enthusiast <br/>
-    🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
+    🛩 Aerospace Engineering Background &nbsp; | &nbsp; 💻 Web & Embedded Systems Enthusiast <br/>
+    🌍 Toronto, Canada &nbsp; | &nbsp; 📫 myselfkari57@gmail.com
   </p>
+
 </div>
-
-<style>
-@keyframes shine {
-  to {
-    background-position: 200% center;
-  }
-}
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-</style>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
-</p>
 
 ---
 
