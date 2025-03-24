@@ -1,35 +1,11 @@
-<!-- Animated GitHub Intro (style-tag-free) -->
-<div align="center">
-
-  <h1 style="
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 2.8rem;
-    font-weight: 800;
-    background: linear-gradient(270deg, #00ffff, #ff00ff, #00ffff);
-    background-size: 600% 600%;
-    color: transparent;
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientAnimation 8s ease infinite;
-    display: inline-block;
-  ">
-    Hey, I'm Kartik 👋
-  </h1>
-
-  <p style="
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 1.1rem;
-    color: #cccccc;
-    line-height: 1.6;
-    margin-top: 10px;
-  ">
-    🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br/>
-    🛩 Aerospace Engineering Background &nbsp; | &nbsp; 💻 Web & Embedded Systems Enthusiast <br/>
-    🌍 Toronto, Canada &nbsp; | &nbsp; 📫 myselfkari57@gmail.com
-  </p>
-
-</div>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff;">
+   Hey, I'm Kartik
+</h1>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc;">
+  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
+  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
+</p>
 
 ---
 
