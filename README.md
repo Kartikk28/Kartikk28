@@ -1,11 +1,46 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff;">
-   Hey, I'm Kartik
-</h1>
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc;">
-  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
-  🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
-  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
-</p>
+<!-- Cool Animated Intro for GitHub README -->
+<div align="center">
+  <h1 style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, #00ffff, #ff00ff, #00ffff);
+    background-size: 200% auto;
+    color: #fff;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s linear infinite;
+    margin-bottom: 0.5rem;
+  ">
+    Hey, I'm Kartik 👋
+  </h1>
+
+  <p style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.15rem;
+    color: #cccccc;
+    line-height: 1.6;
+    animation: fadeIn 2s ease-in-out;
+  ">
+    🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br/>
+    🛩️ Aerospace Engineering Background | 💻 Web & Embedded Systems Enthusiast <br/>
+    🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
+  </p>
+</div>
+
+<style>
+@keyframes shine {
+  to {
+    background-position: 200% center;
+  }
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+</style>
+
 
 ---
 
