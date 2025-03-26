@@ -58,14 +58,14 @@ I’m a passionate **Software Engineering student** with a background in **Aeros
 ### 🚗 [Car Rental System](https://github.com/Kartikk28/Car_Rental)
 Java Spring Boot + React.js web app for managing car rentals. Features include user authentication, car booking, and admin dashboard.
 
-### 🌱 [Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-)
+### 🌱 [Automated Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-)
 Java + Arduino smart irrigation system that monitors soil moisture and automates watering.
 
-### ⏰ [Alarm Clock System](https://github.com/Kartikk28/Alarm-Clock-System-OLED)
+### ⏰ [Arduino Alarm Clock System](https://github.com/Kartikk28/Alarm-Clock-System-OLED)
 Arduino OLED-based digital clock with customizable alarms and a sleek user interface.
 
-### 🚦 [Smart Traffic System](https://github.com/Kartikk28/SmartTrafficSystem)
-Multithreaded Java system simulating real-time traffic flow with dynamic signal control.
+###  [RetroBeats](https://github.com/Kartikk28/RetroBeats)
+A retro music web application which consists of old melody music from 1950's -2000.
 
 ---
 
