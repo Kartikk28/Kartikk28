@@ -55,7 +55,7 @@ I’m a passionate **Software Engineering student** with a background in **Aeros
 
 ## 🧩 Featured Projects
 
-### 🚗 [Car Rental System](https://github.com/Kartikk28/Car_Rental)
+### 🚗 [ZenDrive-Car Rental System](https://github.com/Kartikk28/Car_Rental)
 Java Spring Boot + React.js web app for managing car rentals. Features include user authentication, car booking, and admin dashboard.
 
 ### 🌱 [Automated Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-)
