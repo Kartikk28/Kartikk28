@@ -7,9 +7,9 @@
   🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
   🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
-Updated on <!-- daily_update_placeholder -->
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/kartiksharma___?ext=heatmap&theme=dark)](https://leetcode.com/u/kartiksharma___/)
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
