@@ -4,7 +4,7 @@
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
   🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
-  🛩️ Background in Aerospace Engineering | 💻 Passionate about Web & Embedded Systems <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
   🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
 
