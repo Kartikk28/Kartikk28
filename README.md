@@ -1,46 +1,12 @@
-<h1 align="center" style="
-    font-family: 'Poppins', 'Segoe UI', sans-serif; 
-    font-size: 3rem; 
-    font-weight: 800; 
-    color: #ffffff;
-    margin-bottom: 10px;
-    text-shadow: 0 0 10px rgba(100, 255, 218, 0.3);
-    background: linear-gradient(90deg, #64ffda, #ffffff);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    letter-spacing: -0.5px;
-    line-height: 1.2;
-    animation: fadeIn 1s ease-in-out;
-">
-    👋 Hey, I'm Kartik
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
+    Hey, I'm Kartik
 </h1>
 
-<p align="center" style="
-    font-family: 'Inter', 'Segoe UI', sans-serif;
-    font-size: 1.25rem;
-    color: #8892b0;
-    margin-bottom: 25px;
-    max-width: 700px;
-    line-height: 1.6;
-    animation: slideUp 1s ease-in-out;
-">
-    <span style="color: #64ffda;">🎓</span> Software Engineering Student @ <b style="color: #ccd6f6;">Lassonde School of Engineering</b><br>
-    <span style="color: #64ffda;">🛩️</span> Aerospace Background | <span style="color: #64ffda;">💻</span> Passionate about <b style="color: #ccd6f6;">AI/ML</b> & <b style="color: #ccd6f6;">Fintech</b><br>
-    <span style="color: #64ffda;">🌍</span> Based in <b style="color: #ccd6f6;">Toronto, Canada</b> | <span style="color: #64ffda;">📫</span> <a href="mailto:myselfkari57@gmail.com" style="color: #64ffda; text-decoration: none;">myselfkari57@gmail.com</a>
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
+  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
+  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
-
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; transform: translateY(-10px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-    
-    @keyframes slideUp {
-        from { opacity: 0; transform: translateY(20px); }
-        to { opacity: 1; transform: translateY(0); }
-    }
-</style>
 
 
 
