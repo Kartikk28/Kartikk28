@@ -1,31 +1,32 @@
-<h1 align="center" style="font-family: 'Poppins', sans-serif; font-size: 3rem; font-weight: 800; margin: 0; background: linear-gradient(90deg, #ff4d4d, #f9cb28, #4dff88); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 10px rgba(0,0,0,0.1);">
-  ✨ HEY, I'M KARTIK ✨ 
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
+    Hey, I'm Kartik
 </h1>
 
-<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 1.3rem; color: #d1d5db; margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=🚀+Software+Engineer+%7C+AI%2FML+Enthusiast;🛩️+Ex-Aerospace+%7C+Fintech+Builder;🌍+Toronto+%7C+Open+to+Collaborate!" alt="Dynamic Typing Text">
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
+  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
+  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kartikk28&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" /> 
-  <a href="https://github.com/Kartikk28?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kartikk28?label=FOLLOWERS&style=social" alt="GitHub followers">
-  </a>
-</div>
 
-## 👨‍💻 **About Me**  
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
 </p>
 
-- 🔭 **Currently:** Building AI-driven fintech tools & scalable web apps  
-- 🎓 **Education:** BEng Software Engineering @ York University (Lassonde)  
-- 🛩️ **Past Life:** Aerospace Engineer turned **Code Alchemist**  
-- 💡 **Passions:** AI/ML, Blockchain, Embedded Systems, & Open-Source  
-- 🌱 **Learning:** TensorFlow, Rust, & Cloud Architecture (AWS/GCP)  
-- ⚡ **Fun Fact:** I once built a drone that follows you like a pet!  
+---
 
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+</p>
+
+
+I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
+
+---
 
 ## 🛠️ Technologies & Tools
 
