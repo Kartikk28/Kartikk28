@@ -35,18 +35,19 @@
 
 ## 🚀 About Me
 
+
+
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+
 </p>
 
-Hey there! I'm Kartik, and I'm excited to share that I'll be joining the **Ontario Government as an Incoming Software Developer from Fall 2025 to April 2026**.
 
-I am a passionate **Software Engineering student** currently honing my skills at Lassonde School of Engineering, York University. My unique journey began with a foundational background in **Aerospace Engineering**, which has equipped me with a strong analytical mindset and a keen eye for detail when tackling complex problems.
 
-I thrive on building innovative and user-centric digital solutions, with a particular interest in **full-stack development** and creating **seamless digital experiences**. My drive comes from a deep curiosity about how technology can solve real-world challenges and enhance our daily lives.
 
-Outside the realm of code, I'm an avid reader 📚, always eager to explore new ideas and perspectives. I also embrace adventure, whether it's through challenging treks ⛰️ or discovering new places 🌍. These pursuits not only recharge my creativity but also sharpen my problem-solving abilities.
----
+
+I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
 
 ## 🛠️ Technologies & Tools
 
