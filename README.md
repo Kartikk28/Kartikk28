@@ -13,28 +13,25 @@
   </p>
 
   <div style="margin-top: 40px; margin-bottom: 30px;">
-    <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <a href="https://www.linkedin.com/in/erks/" target="_blank" style="margin: 0 12px; display: inline-block;">
       <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
     </a>
-    <a href="https://github.com/yourgithubprofile" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <a href="https://github.com/Kartikk28" target="_blank" style="margin: 0 12px; display: inline-block;">
       <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
     </a>
     </div>
 
   <div style="margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Kartik's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&hide_border=true" alt="Kartik's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kartikk28&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Kartik's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk28&layout=compact&theme=dark&hide_border=true" alt="Kartik's Top Languages">
   </div>
+</div>
 
-  </div>
+<div align="center" style="margin-top: 40px; margin-bottom: 30px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!;" alt="Typing animation">
+</div>
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
-</p>
-
----
+<hr style="border: none; height: 2px; background: linear-gradient(to right, rgba(102, 178, 255, 0), #66b2ff, rgba(102, 178, 255, 0)); margin: 40px auto; width: 80%;">
 
 ## 🚀 About Me
 
