@@ -1,12 +1,32 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
-    Hey, I'm Kartik
-</h1>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzWSCCxRxrER/giphy.gif" width="60" alt="Waving hand emoji">
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
-  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
-  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
-  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
-</p>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3rem; font-weight: 800; color: #E0E0E0; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); margin-bottom: 10px; line-height: 1.2;">
+    Hey there, I'm <span style="color: #66b2ff;">Kartik</span>! ✨
+  </h1>
+
+  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.3rem; color: #B0B0B0; margin-bottom: 25px; line-height: 1.6;">
+    <span style="font-weight: 600; color: #FFFFFF;">🎓 Software Engineering Student</span> @ <b style="color: #87CEEB;">Lassonde School of Engineering, York University</b> <br>
+    <span style="font-weight: 600; color: #FFFFFF;">🚀 Passionate about</span> <b style="color: #FFD700;">AI/ML</b> & <b style="color: #00CC99;">Fintech</b> roles <br>
+    <span style="font-weight: 600; color: #FFFFFF;">💡 Background in</span> <b style="color: #FF7F50;">Aerospace Engineering</b> <br>
+    <span style="font-weight: 600; color: #FFFFFF;">📍 Toronto, Canada</span> &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:myselfkari57@gmail.com" style="color: #66b2ff; text-decoration: none; font-weight: 600;">myselfkari57@gmail.com</a>
+  </p>
+
+  <div style="margin-top: 40px; margin-bottom: 30px;">
+    <a href="https://linkedin.com/in/yourlinkedinprofile" target="_blank" style="margin: 0 12px; display: inline-block;">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    </a>
+    <a href="https://github.com/yourgithubprofile" target="_blank" style="margin: 0 12px; display: inline-block;">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
+    </a>
+    </div>
+
+  <div style="margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Kartik's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=dark&hide_border=true" alt="Kartik's Top Languages">
+  </div>
+
+  </div>
 
 
 
