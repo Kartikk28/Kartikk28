@@ -1,53 +1,32 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzWSCCxRxrER/giphy.gif" width="60" alt="Waving hand emoji">
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
+    Hey, I'm Kartik
+</h1>
 
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3rem; font-weight: 800; color: #E0E0E0; text-shadow: 2px 2px 4px rgba(0,0,0,0.4); margin-bottom: 10px; line-height: 1.2;">
-    Hey there, I'm <span style="color: #66b2ff;">Kartik</span>! ✨
-  </h1>
-
-  <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.3rem; color: #B0B0B0; margin-bottom: 25px; line-height: 1.6;">
-    <span style="font-weight: 600; color: #FFFFFF;">🎓 Software Engineering Student</span> @ <b style="color: #87CEEB;">Lassonde School of Engineering, York University</b> <br>
-    <span style="font-weight: 600; color: #FFFFFF;">🚀 Passionate about</span> <b style="color: #FFD700;">AI/ML</b> & <b style="color: #00CC99;">Fintech</b> roles <br>
-    <span style="font-weight: 600; color: #FFFFFF;">💡 Background in</span> <b style="color: #FF7F50;">Aerospace Engineering</b> <br>
-    <span style="font-weight: 600; color: #FFFFFF;">📍 Toronto, Canada</span> &nbsp;&nbsp;|&nbsp;&nbsp; 📧 <a href="mailto:myselfkari57@gmail.com" style="color: #66b2ff; text-decoration: none; font-weight: 600;">myselfkari57@gmail.com</a>
-  </p>
-
-  <div style="margin-top: 40px; margin-bottom: 30px;">
-    <a href="https://www.linkedin.com/in/erks/" target="_blank" style="margin: 0 12px; display: inline-block;">
-      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <a href="https://github.com/Kartikk28" target="_blank" style="margin: 0 12px; display: inline-block;">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
-    </a>
-    </div>
-
-  <div style="margin-top: 30px; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kartikk28&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Kartik's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikk28&layout=compact&theme=dark&hide_border=true" alt="Kartik's Top Languages">
-  </div>
-</div>
-
-<div align="center" style="margin-top: 40px; margin-bottom: 30px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!;" alt="Typing animation">
-</div>
-
-<hr style="border: none; height: 2px; background: linear-gradient(to right, rgba(102, 178, 255, 0), #66b2ff, rgba(102, 178, 255, 0)); margin: 40px auto; width: 80%;">
-
-## 🚀 About Me
-
-
-
-<p align="center">
-
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
-
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
+  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
+  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
+  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
 </p>
 
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
+</p>
+
+---
+
+## 🚀 About Me
+
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+</p>
+
 
 I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
+
+---
 
 ## 🛠️ Technologies & Tools
 
