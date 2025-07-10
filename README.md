@@ -17,16 +17,19 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 **About Me**  
 
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF">
 </p>
 
+- 🔭 **Currently:** Building AI-driven fintech tools & scalable web apps  
+- 🎓 **Education:** BEng Software Engineering @ York University (Lassonde)  
+- 🛩️ **Past Life:** Aerospace Engineer turned **Code Alchemist**  
+- 💡 **Passions:** AI/ML, Blockchain, Embedded Systems, & Open-Source  
+- 🌱 **Learning:** TensorFlow, Rust, & Cloud Architecture (AWS/GCP)  
+- ⚡ **Fun Fact:** I once built a drone that follows you like a pet!  
 
-I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
-
----
 
 ## 🛠️ Technologies & Tools
 
