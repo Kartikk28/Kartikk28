@@ -91,7 +91,7 @@ C for GPIO/timers/interrupts on **NXP KL43Z**; button debouncing, LED control, a
 
 - 🎓 Dean’s List, Lassonde School of Engineering (2023, 2024)
 - ✅ **AWS Certified Cloud Practitioner** (Aug 2025)
-- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — *In progress*
+- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — (Aug 2025)
 - 🎯 JPMorgan Chase & Co. **Software Engineering Job Simulation (Forage)** (Apr 2025)
 
 ![Open Source Contributor](https://img.shields.io/badge/-Open%20Source%20Contributor-blue)
