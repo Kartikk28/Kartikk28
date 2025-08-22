@@ -1,79 +1,89 @@
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5rem; font-weight: bold; color: #ffffff; margin-bottom: 10px;">
-    Hey, I'm Kartik
+  Hey, I'm Kartik
 </h1>
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
-  🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> <br>
-  🛩️ Background in Aerospace Engineering | 💻 Passionate about AI/ML, Fintech roles <br>
-  🌍 Toronto, Canada &nbsp;|&nbsp; 📫 myselfkari57@gmail.com
+  🎓 Software Engineering @ <b>Lassonde School of Engineering, York University</b> (GPA 3.7/4) <br>
+  ⚙️ C++/C#, OOP, Data Structures & Algorithms • Real-time & event-driven systems • Embedded C/C++ <br>
+  📍 Toronto, Canada — <b>Open to on-site Vancouver (Jan–Apr 2026)</b> &nbsp;|&nbsp; 📫 <a href="mailto:kartik28@my.yorku.ca">kartik28@my.yorku.ca</a>
 </p>
 
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+awesome+together!;Check+out+my+projects+below!" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Systems-minded+SWE+%7C+C%2B%2B%2FC%23;Real-time+loops%2C+concurrency%2C+profiling;Event-driven+pipelines+%28Kafka%29+%7C+WebSocket%2FREST;Embedded+FSMs+%28Arduino%2C+KL43Z%29" alt="Typing animation">
 </p>
 
 ---
 
 ## 🚀 About Me
-
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="400"/>
-</p>
-
-
-I’m a passionate **Software Engineering student** with a background in **Aerospace Engineering**. I love building websites and creating seamless digital experiences. Outside of coding, I’m an avid reader and an adventure enthusiast who enjoys going on treks and exploring new places.
+I’m a systems-focused SWE who enjoys building **real-time, event-driven** software and **embedded C/C++** projects. Recent work spans a Kafka-based streaming pipeline, C++/C# practice on performance & debugging, and timing-critical microcontroller projects (finite-state machines, debouncing, interrupts). Starting in aerospace manufacturing gave me a bias for reliability, documentation, and clean processes.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Languages & Frameworks
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+### 💻 Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### 🌐 Web & Frameworks
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+### 🌐 Frameworks & Runtime
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-1C1C1C?style=flat)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+### ⚙️ Systems, Data & DevOps
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![IBM DB2](https://img.shields.io/badge/-IBM%20DB2-052FAD?style=flat&logo=ibm&logoColor=white)
 
+### 🔌 Embedded & Hardware
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+<img src="https://img.shields.io/badge/-NXP%20KL43Z-0F5BA7?style=flat" alt="NXP KL43Z"/>
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🚗 [ZenDrive-Car Rental System](https://github.com/Kartikk28/Car_Rental)
-Java Spring Boot + React.js web app for managing car rentals. Features include user authentication, car booking, and admin dashboard.
+### 📈 <a href="https://github.com/Kartikk28/TradeFlux">TradeFlux — Real-time Market Data Pipeline</a>
+Kafka-driven tick generator → Python analytics (rolling windows, VWAP/EMA) → FastAPI services (**REST/WebSocket**) with basic health/latency metrics and tests.
 
-### 🌱 [Automated Plant Watering System](https://github.com/Kartikk28/Plant-Watering-System-)
-Java + Arduino smart irrigation system that monitors soil moisture and automates watering.
+### 🏡 <a href="https://github.com/Kartikk28/ValuEdge">ValuEdge — ML Model Serving</a>
+XGBoost regressor with pandas/scikit-learn (train/val split, cross-validation; **MAE/MAPE**). Flask inference + MongoDB; interactive UI and docs.
 
-### ⏰ [Arduino Alarm Clock System](https://github.com/Kartikk28/Alarm-Clock-System-OLED)
-Arduino OLED-based digital clock with customizable alarms and a sleek user interface.
+### ⏰ <a href="https://github.com/Kartikk28/Alarm-Clock-System-OLED">Arduino Analog Alarm Clock</a>
+Finite-state machine for timekeeping/alarm/snooze using non-blocking timers (`millis()`), OLED UI, and modular C++ organization.
 
-###  [RetroBeats](https://github.com/Kartikk28/RetroBeats)
-A retro music web application which consists of old melody music from 1950's -2000.
+### 🔧 KL43Z Embedded Demos (repo link soon)
+C for GPIO/timers/interrupts on NXP KL43Z; button debouncing, LED control, deterministic behavior under timing constraints.
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 🏅 Certifications
+- **AWS Certified Cloud Practitioner** (Aug 2025)  
+- **AWS Certified AI Practitioner (AIF-C01)** — *In progress*  
+- **JPMorgan Chase & Co. Software Engineering Job Simulation (Forage)** (Apr 2025)
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartikk28&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br>
@@ -84,48 +94,25 @@ A retro music web application which consists of old melody music from 1950's -20
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 Dean’s List, Lassonde School of Engineering (2023, 2024)
-
-![Open Source Contributor](https://img.shields.io/badge/-Open%20Source%20Contributor-blue)
-![Dean's List](https://img.shields.io/badge/-Dean's%20List-orange)
-
----
-
 ## 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik-sharma-8859b819a" target="_blank">
+  <a href="https://www.linkedin.com/in/erks/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 40px; width: 120px;">
-  </a>  
+  </a>
   <a href="https://github.com/Kartikk28" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 40px; width: 120px;">
-  </a>  
-  <a href="mailto:myselfkari57@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="height: 40px; width: 120px;">
-  </a>  
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="height: 40px; width: 120px;">
+  </a>
+  <a href="mailto:kartik28@my.yorku.ca" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="height: 40px; width: 120px;">
+  </a>
+  <a href="https://kartiksharma-vert.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-1F2937?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" style="height: 40px; width: 140px;">
   </a>
 </p>
 
 ---
 
-## 💡 Fun Fact
-I started in aerospace engineering, but now I mix code with creativity to build impactful tech — from web apps to embedded systems 🚀. When I'm not coding, you'll find me exploring new hiking trails or tinkering with my Raspberry Pi projects!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" alt="Fun Fact GIF" width="200">
-</p>
-
----
-
 ## 🌟 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/Kartikk28/count.svg)
+<img src="https://profile-counter.glitch.me/Kartikk28/count.svg" alt="Visitor Count"/>
 
----
-
-<p align="center">
-  <b>Thanks for visiting my profile! </b>
-</p>
+<p align="center"><b>Thanks for stopping by!</b></p>
