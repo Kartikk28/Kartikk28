@@ -108,13 +108,6 @@ Finite-state machine for timekeeping/alarm/snooze using non-blocking timers (`mi
 
 ### 🔧 <a href="https://github.com/Kartikk28/kl43z-demos">KL43Z Embedded Demos</a>
 C for GPIO/timers/interrupts on **NXP KL43Z**; button debouncing, LED control, deterministic behavior under timing constraints.
-
-### 🧪 Game / Systems Lab
-- **C++ Real-Time Loop (coming soon)** — fixed+variable timestep, delta-time smoothing, frame pacing; tiny profiler overlay.  
-- **Component System Toy (C#)** — entities/components, input mapping, camera pan/zoom; stress test with 5k entities.  
-- **Collision Sandbox** — AABB + SAT for convex polys; broadphase sweep-and-prune vs uniform grid benchmarks.  
-> Want the Windows build? <a href="mailto:kartik28@my.yorku.ca">Email me</a> and I’ll send the latest executable.
-
 ---
 
 ## 📈 GitHub Stats & Activity
@@ -132,7 +125,7 @@ C for GPIO/timers/interrupts on **NXP KL43Z**; button debouncing, LED control, d
 ---
 
 ## 💼 Experience
-- **Software Developer Co-op (Incoming)** — Govt. of Ontario: Azure DevOps (YAML/ARM), AKS, Helm, quality gates (SonarQube); modernized reporting to Angular + Java REST (Oracle).
+- **Software Developer Co-op (Incoming)** — OPS (Govt. of Ontario): Azure DevOps (YAML/ARM), AKS, Helm, quality gates (SonarQube); modernized reporting to Angular + Java REST (Oracle).
 - **CNC Programmer** — QMF: Python log parser to catch tolerance drift; standardized tool paths; ISO-9001 SOPs; SharePoint SPC dashboard for 10+ CNC cells.
 
 ---
