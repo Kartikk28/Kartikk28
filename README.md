@@ -23,12 +23,6 @@
 </p>
 
 ---
-
-### 🔭 What I’m Building Now
-- **C++ gameplay micro-demo**: real-time loop (fixed/variable timestep), input, AABB collisions, tiny profiler overlay (GIF soon).
-- **TradeFlux** hardening: back-pressure + replay window; metrics panel with p50/p95/p99 latency.
-- **Embedded KL43Z**: ISR jitter + debounce technique comparisons (timing/ determinism).
-
 ---
 
 ## 🚀 About Me
