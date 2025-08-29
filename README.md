@@ -125,7 +125,7 @@ C for GPIO/timers/interrupts on **NXP KL43Z**; button debouncing, LED control, d
 ---
 
 ## 💼 Experience
-- **Software Developer Co-op (Incoming)** — OPS (Govt. of Ontario): Azure DevOps (YAML/ARM), AKS, Helm, quality gates (SonarQube); modernized reporting to Angular + Java REST (Oracle).
+- **Software Developer Co-op  — OPS (Govt. of Ontario): Azure DevOps (YAML/ARM), AKS, Helm, quality gates (SonarQube); modernized reporting to Angular + Java REST (Oracle).
 - **CNC Programmer** — QMF: Python log parser to catch tolerance drift; standardized tool paths; ISO-9001 SOPs; SharePoint SPC dashboard for 10+ CNC cells.
 
 ---
