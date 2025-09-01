@@ -4,7 +4,7 @@
 
 <p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.2rem; color: #cccccc; margin-bottom: 20px;">
   🎓 Software Engineering Student @ <b>Lassonde School of Engineering, York University</b> (GPA 3.7/4) <br>
-  ⚙️ Java/C#, OOP, Data Structures & Algorithms • Real-time & event-driven systems • Embedded C/C++ <br>
+  ⚙️ Java/C#, OOP, Data Structures & Algorithms • Real-time & event-driven systems • C/C++ <br>
   🌍 Toronto, Canada —  &nbsp;|&nbsp; 📫 <a href="mailto:kartik28@my.yorku.ca">kartik28@my.yorku.ca</a>
 </p>
 
